@@ -2,7 +2,7 @@
 title: Les chaînes Youtube
 description: Les chaînes Youtube
 published: 1
-date: 2022-01-06T17:54:46.495Z
+date: 2022-01-06T17:55:14.179Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-04T18:21:35.135Z
@@ -24,7 +24,6 @@ dateCreated: 2022-01-04T18:21:35.135Z
 - [Les Freres Poulains](https://www.youtube.com/channel/UCjED9uS41ioeFuPfbR-OBlw/videos)
 - [Le Ludo Lab](https://www.youtube.com/channel/UCAf83V-tBzmvbtrqmUfawKA/videos)
 - [Crea_Din 3D](https://www.youtube.com/channel/UCoE13UKE83Rx0ofO6UQ_l6A/videos)
-- []()
 
 ## Etrangères
 - [3D Printing Nerd](https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ/videos)
