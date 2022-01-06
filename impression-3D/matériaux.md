@@ -2,15 +2,17 @@
 title: Les matériaux
 description: 
 published: 1
-date: 2022-01-05T23:35:04.909Z
+date: 2022-01-06T17:41:40.978Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-04T17:11:34.322Z
 ---
 
 # Les filaments
-Your content here
-## Les filaments courants
+> Cette page est en cours de rédaction. Vous pouvez [contribuer](/contributeur) à ce Wiki par vous-même.
+{.is-warning}
+
+## Les filaments standards
 ### PLA 
 ### PET & PETG
 ### ABS
@@ -18,25 +20,22 @@ Your content here
 
 ## Les filaments flexibles
 ### TPU
+### PLA flexible
 
 ## Les matériaux de support
 ### PVA
 ### HIPS
 
-## Les filaments Bois
-## Les filaments Métalliques
-
 ## Les autres matériaux (à ranger)
-
+### Bois
+### Métalliques
 ### Carbone
 ### PA-Nylon
-
 ### Pierre
 ### BIO
 ### PC
 ### PCTG
 ### Glow-in-the-Dark
-
 ### PEEK
 ### PP
 ### PEI/ULTEM
