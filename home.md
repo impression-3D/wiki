@@ -2,7 +2,7 @@
 title: Accueil
 description: Page d'accueil
 published: 1
-date: 2022-01-07T14:57:37.615Z
+date: 2022-01-07T14:58:04.558Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-04T16:30:30.298Z
@@ -20,7 +20,8 @@ Il est de plus en plus facile de posséder une imprimante 3D à la maison et de 
 Il s'agit d'un site, ou un espace communautaire, qui permet la création, la modification et l'illustration collaborative de contenu sous forme de pages. Chacun est libre de contribuer à sa manière au contenu de ce Wiki pour apporter son savoir mais aussi son expérience au sujet de l'impression 3D.
 {.is-info}
 
-## Les objectifs de cet espace communautaire
+## Les objectifs
+Les objectifs de cet espace communautaire sont les suivants : 
 * **Créer un espace de partage** autour de l'impression 3D.
 * **Produire un guide numérique gratuit et complet** sur l'impression 3D.
 * **Partager ses connaissances et son expérience** aux autres pour démocratiser cette technologie.
