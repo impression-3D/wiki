@@ -2,13 +2,13 @@
 title: Accueil
 description: Page d'accueil
 published: 1
-date: 2022-01-07T14:57:18.347Z
+date: 2022-01-07T14:57:37.615Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-04T16:30:30.298Z
 ---
 
-# Wiki communautaire sur l'impression 3D
+# L'impression 3D
 > Bonjour et bienvenue à vous sur ce **wiki communautaire** consacré à l'**impression 3D**.
 
 ![prusa.jpg](/assets/prusa.jpg =70%x)
