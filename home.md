@@ -2,7 +2,7 @@
 title: Accueil
 description: Page d'accueil
 published: 1
-date: 2022-01-07T14:25:02.590Z
+date: 2022-01-07T14:57:18.347Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-04T16:30:30.298Z
@@ -16,22 +16,30 @@ dateCreated: 2022-01-04T16:30:30.298Z
 L'impression 3D, ou la fabrication additive, est **un procédé de fabrication de pièces en volume par dépôt de matière** en couche successives.
 Il est de plus en plus facile de posséder une imprimante 3D à la maison et de commencer à réaliser ses propres créations (prototypes, jeux, constructions, objets divers, ...).
 
-> **Qu'est ce qu'un Wiki ?**
+> **Qu'est-ce qu'un Wiki ?**
 Il s'agit d'un site, ou un espace communautaire, qui permet la création, la modification et l'illustration collaborative de contenu sous forme de pages. Chacun est libre de contribuer à sa manière au contenu de ce Wiki pour apporter son savoir mais aussi son expérience au sujet de l'impression 3D.
 {.is-info}
 
-
 ## Les objectifs de cet espace communautaire
-* fff
-* ffff
-* ffff
+* **Créer un espace de partage** autour de l'impression 3D.
+* **Produire un guide numérique gratuit et complet** sur l'impression 3D.
+* **Partager ses connaissances et son expérience** aux autres pour démocratiser cette technologie.
 
-## Structure du contenu 
+## Structure du contenu
+Ce wiki est structuré en **plusieurs chapitres** pour permettre au mieux d'organiser le contenu :
+| Chapitre | Description du contenu |
+|---|---|
+| Fondamentaux | Les informations de base à connaître autour de l'impression 3D (bases, procédés, matériaux, ...) |
+| Logiciels | Les différents logiciels à utiliser pour la modélisation, le découpage, et la gestion de votre imprimante  |
+| Matériels | Les différents matériels et des conseils pour l'entretien ou la calibration |
+| Guides | Des guides spécifiques pour vous aider de manière précise |
+| Ressources | Des ressources complémentaires (sites en ligne, chaines Youtube, constructeurs, ...  |
 
-
+## Vous débutez ?
+Vous débutez dans l'impression 3D ou vous voudriez sauter le pas et acheter une petite imprimante pour vous amuser à la maison ? Lisez alors l'article intitulé **[bien commencer](/impression-3D/bien-commencer)**.
 
 ## Comment contribuer ?
-
+Il suffit de **[créer un compte](/register)** sur ce Wiki et de commencer à créer ou modifier du contenu. Il existe une page dédiée décrivant la façon dont il est possible de contribuer à ce Wiki.
 
 ## Licence du contenu
-Le contenu est disponible sous la **Licence Creative Commons attribution, pas d'utilisation commerciale**. L'intégralité de la licence est disponible ici.
+Le contenu est disponible sous la **Licence Creative Commons attribution, pas d'utilisation commerciale**. L'intégralité de la licence est disponible [ici](/licence).
