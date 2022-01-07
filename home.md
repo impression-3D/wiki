@@ -2,7 +2,7 @@
 title: Accueil
 description: Page d'accueil
 published: 1
-date: 2022-01-07T14:22:04.821Z
+date: 2022-01-07T14:25:02.590Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-04T16:30:30.298Z
@@ -33,3 +33,5 @@ Il s'agit d'un site, ou un espace communautaire, qui permet la création, la mod
 ## Comment contribuer ?
 
 
+## Licence du contenu
+Le contenu est disponible sous la **Licence Creative Commons attribution, pas d'utilisation commerciale**. L'intégralité de la licence est disponible ici.
