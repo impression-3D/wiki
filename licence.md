@@ -1,9 +1,9 @@
 ---
-title: Licence Creative Commons CC BY-NC-SA 4.0
-description: Intégralité de la licence Creative Commons CC BY-NC-SA 4.0
+title: Licence
+description: Licence Creative Commons CC BY-NC-SA 4.0
 published: 1
-date: 2022-01-07T14:29:50.824Z
-tags: license, creative commons, copyright
+date: 2022-01-07T14:30:44.606Z
+tags: copyright, creative commons, license
 editor: markdown
 dateCreated: 2022-01-07T14:26:31.367Z
 ---
