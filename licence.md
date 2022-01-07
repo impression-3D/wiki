@@ -1,14 +1,14 @@
 ---
-title: Licence
-description: 
+title: Licence Creative Commons CC BY-NC-SA 4.0
+description: Intégralité de la licence Creative Commons CC BY-NC-SA 4.0
 published: 1
-date: 2022-01-07T14:26:31.367Z
-tags: 
+date: 2022-01-07T14:29:50.824Z
+tags: license, creative commons, copyright
 editor: markdown
 dateCreated: 2022-01-07T14:26:31.367Z
 ---
 
-# License creative commons
+# Licence creative commons
 
 ## Attribution 4.0 International
 
@@ -132,3 +132,5 @@ Afin de lever toute ambiguïté, le présent Article 4 complète mais ne remplac
 > Creative Commons n’est pas partie prenante de ses licences publiques. Néanmoins, Creative Commons se réserve le droit d'utiliser une de ses licences publiques pour les œuvres qu’elle publie, et dans ce cas sera considérée comme « Donneur de licence ». Le texte des licences publiques Creative Commons est versé au domaine public en vertu de [CC0 Domaine Public](https://creativecommons.org/publicdomain/zero/1.0/legalcode.fr). À l’exception des seuls cas où il est indiqué que l’œuvre est mise à disposition sous licence publique Creative Commons et ceux autorisés par les statuts de Creative Commons disponibles sur [creativecommons.org/policies](https://creativecommons.org/policies), Creative Commons n’autorise l’utilisation par aucune partie de la marque "Creative Commons" ou de toute autre marque ou logo de Creative Commons sans le consentement écrit préalable de Creative Commons. Cette restriction relative à l'utilisation des marques ne constitue pas une partie de nos licences publiques.
 > 
 > Vous pouvez joindre Creative Commons via [creativecommons.org](https://creativecommons.org/).
+
+Retrouvez l'intégralité de la licence sur [creativecomons.org](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
