@@ -2,7 +2,7 @@
 title: Conditions Générales d'Utilisation
 description: Conditions générales d’utilisation du site Wiki3D
 published: 1
-date: 2022-01-23T12:55:18.011Z
+date: 2022-01-23T17:24:05.141Z
 tags: cgu, conditions, réglementation
 editor: markdown
 dateCreated: 2022-01-23T12:55:18.011Z
@@ -15,13 +15,13 @@ Les présentes CGU ou Conditions Générales d’Utilisation encadrent juridique
 Constituant le contrat entre l’administrateur du site, l’Utilisateur, l’accès au site doit être précédé de l’acceptation de ces CGU. L’accès à cette plateforme signifie l’acceptation des présentes CGU.
 
 ## Article 2 : Mentions légales
-L’édition et la maintenance du site Wiki3D est assurée principalement par monsieur Yohann Ciurlik. Dû à l’aspect collaboratif du présent Site (wiki), d’autres personnes sont amenées à créer ou modifier le contenu du site.
+L’édition et la maintenance du site Wiki3D est assurée principalement par monsieur Yohann Ciurlik. Dû à l’aspect collaboratif du présent Site (wiki), d’autres personnes seront amenées à créer ou modifier le contenu du site.
 
-L’hébergeur du site Wiki3D.fr est réalisé par la société OVH, sise au 2 rue Kellermann - 59100 Roubaix - France.
+L’hébergement du site Wiki3D.fr est réalisé par la société OVH, sise au 2 rue Kellermann - 59100 Roubaix - France.
 
 ## Article 3 : Accès au site
 Le site Wiki3D permet d’accéder gratuitement aux services suivants :
-•	Mise à disposition de contenu autour du sujet de l’impression 3D
+•	Mise à disposition de contenu sous forme de Wiki autour du sujet de l’impression 3D
 
 Le site est accessible gratuitement depuis n’importe où par tout utilisateur disposant d’un accès à Internet. Tous les frais nécessaires pour l’accès aux services (matériel informatique, connexion Internet…) sont à la charge de l’utilisateur.
 
