@@ -2,14 +2,14 @@
 title: Modèles en ligne
 description: Trouver des modèles en ligne
 published: 1
-date: 2022-01-23T13:43:59.386Z
-tags: modeles, 3d, ressource, modele, web
+date: 2022-01-23T13:50:27.471Z
+tags: 3d, modele, modeles, ressource, web
 editor: markdown
 dateCreated: 2022-01-23T13:43:59.386Z
 ---
 
 # Modèles en ligne
-> Vous connaissez un site qui ne fait pas partie de cette liste, venez [contribuer au wiki](/fr/contributeur).
+> Si tu as envie de compléter cette liste. N'hésite pas à [contribuer au wiki](/fr/contributeur).
 {.is-info}
 
 ## Thingiverse
