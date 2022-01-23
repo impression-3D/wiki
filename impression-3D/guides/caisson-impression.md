@@ -2,13 +2,13 @@
 title: La réalisation d'un caisson d'impression
 description: La réalisation d'un caisson d'impression pour améliorer les impressions, réduire le bruit et filtrer les mauvaises odeurs
 published: 1
-date: 2022-01-23T18:15:01.711Z
+date: 2022-01-23T18:17:02.324Z
 tags: abs, caisson, filtration, impression
 editor: markdown
 dateCreated: 2022-01-23T18:09:22.798Z
 ---
 
-# La réalisation d'un caisson 3D
+# La réalisation d'un caisson pour imprimante 3D
 > Cette page est en cours de rédaction. Vous pouvez [contribuer](/contributeur) à ce Wiki par vous-même.
 {.is-warning}
 
