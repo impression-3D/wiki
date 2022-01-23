@@ -2,7 +2,7 @@
 title: Accueil
 description: Page d'accueil
 published: 1
-date: 2022-01-07T14:58:04.558Z
+date: 2022-01-23T17:27:26.120Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-04T16:30:30.298Z
@@ -40,7 +40,7 @@ Ce wiki est structuré en **plusieurs chapitres** pour permettre au mieux d'orga
 Vous débutez dans l'impression 3D ou vous voudriez sauter le pas et acheter une petite imprimante pour vous amuser à la maison ? Lisez alors l'article intitulé **[bien commencer](/impression-3D/bien-commencer)**.
 
 ## Comment contribuer ?
-Il suffit de **[créer un compte](/register)** sur ce Wiki et de commencer à créer ou modifier du contenu. Il existe une page dédiée décrivant la façon dont il est possible de contribuer à ce Wiki.
+Il suffit de vous **[connecter via un compte Google ou GitHub](/login)** ou de vous **[créer un compte](/register)** sur ce Wiki et de commencer à créer ou modifier du contenu. La page [contributeur](/contributeur) vous indiquera comment vous pouvez contribuer à ce Wiki.
 
 ## Licence du contenu
 Le contenu est disponible sous la **Licence Creative Commons attribution, pas d'utilisation commerciale**. L'intégralité de la licence est disponible [ici](/licence).
