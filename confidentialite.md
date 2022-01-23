@@ -2,7 +2,7 @@
 title: Politique de confidentialité
 description: Politique de confidentialité du site Wiki3D
 published: 1
-date: 2022-01-23T17:24:52.485Z
+date: 2022-01-23T17:25:03.226Z
 tags: cgu, confidentialité, réglementation
 editor: markdown
 dateCreated: 2022-01-23T13:15:48.914Z
@@ -118,7 +118,6 @@ Vous trouverez de plus amples informations sur ces droits au chapitre 3 (art 12-
 
 ## Comment modifier, supprimer ou contester les données recueillies  
 Si vous souhaitez que vos renseignements soient supprimés ou modifiés d’une façon ou d’une autre, veuillez communiquer avec notre agent de protection de la vie privée ici :
-
 - Yohann Ciurlik : spawnrider@gmail.com
 
 ## Politique sur les cookies  
