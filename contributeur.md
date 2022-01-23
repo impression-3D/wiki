@@ -2,7 +2,7 @@
 title: Devenez contributeur
 description: Contribuez à ce Wiki !
 published: 1
-date: 2022-01-23T14:53:30.562Z
+date: 2022-01-23T14:56:18.478Z
 tags: collaboratif, contributeur, web
 editor: markdown
 dateCreated: 2022-01-04T17:45:25.468Z
@@ -22,15 +22,15 @@ Vous serez alors reconnu comme **contributeur externe**. Avec ce statut, toutes 
 Le contributeur, au même titre que le simple usager, se doit de respecter les [CGU](/cgu) ainsi que [la charte de contribution qui se base sur celle du site Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Charte#:~:text=de%20l'int%C3%A9gration-,Le%20statut%20de%20la%20contribution,sp%C3%A9cialement%20la%20communaut%C3%A9%20des%20contributeurs.).
 
 ### Premiers pas
-Un contributeur commencera par contribuer à des pages existantes en y ajoutant du texte, des descriptions, photos, ou autre qu'il jugera utile de partager avec tous les membres de la communauté.
+Un contributeur commencera par **contribuer à des pages existantes** en y ajoutant du texte, des descriptions, photos, ou autre qu'il jugera utile de partager avec tous les membres de la communauté.
 
-Il se doit de respecter la [licence](/licence) du contenu. Il n'est pas concevable d'y intégrer du contenu sous copyrights même seulement du contenu pouvant être intégré sous licence CC BY-NC-SA 4.0.
+Il se doit de respecter la [licence](/licence) du contenu. Il n'est pas concevable d'y intégrer du contenu sous copyrights mais **uniquement du contenu pouvant être intégré sous licence CC BY-NC-SA 4.0**.
 
 ### Contribution et édition des pages
 La contribution se fait via l'édition de pages au format **Markdown** exclusivement. Pour cela, sur une page existante, il suffit de cliquer sur le bouton "Actions sur la page" puis de choisir "Editer" comme suit :
 ![contrib_actions_sur_page.png](/assets/contrib_actions_sur_page.png)
 
-Une fois dans l'éditeur, le contributeur pourra alors modifier le contenu au format MD via un éditeur spécifique : 
+Une fois dans l'éditeur, le contributeur pourra alors modifier le contenu au format MD via un éditeur spécifique :
 - A gauche, le contenu éditable,
 - A droite, la prévisualisation du contenu.
 
