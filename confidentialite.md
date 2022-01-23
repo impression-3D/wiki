@@ -2,8 +2,8 @@
 title: Politique de confidentialité
 description: Politique de confidentialité du site Wiki3D
 published: 1
-date: 2022-01-23T13:15:48.914Z
-tags: cgu, réglementation, confidentialité
+date: 2022-01-23T17:24:52.485Z
+tags: cgu, confidentialité, réglementation
 editor: markdown
 dateCreated: 2022-01-23T13:15:48.914Z
 ---
@@ -127,6 +127,6 @@ Un cookie est un petit fichier, stocké sur le disque dur d’un utilisateur par
 
 Nous utilisons les types de cookies suivants sur notre site :
 1.  Cookies fonctionnels : Nous les utilisons pour mémoriser toutes les sélections que vous faites sur notre site afin qu’elles soient sauvegardées pour vos prochaines visites.  
-2.  Cookies analytiques: Cela nous permet d’améliorer la conception et la fonctionnalité de notre site en recueillant des données sur le contenu auquel vous accédez et sur lequel vous vous accrochez en utilisant notre site.  
+2.  Cookies analytiques : Cela nous permet d’améliorer la conception et la fonctionnalité de notre site en recueillant des données sur le contenu auquel vous accédez et sur lequel vous vous accrochez en utilisant notre site.  
     
 
