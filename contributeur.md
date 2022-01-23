@@ -2,7 +2,7 @@
 title: Devenez contributeur
 description: Contribuez à ce Wiki !
 published: 1
-date: 2022-01-23T15:00:15.551Z
+date: 2022-01-23T15:02:00.863Z
 tags: collaboratif, contributeur, web
 editor: markdown
 dateCreated: 2022-01-04T17:45:25.468Z
@@ -28,7 +28,7 @@ Il se doit de respecter la [licence](/licence) du contenu. Il n'est pas concevab
 
 ### Contribution et édition des pages
 La contribution se fait via l'édition de pages au format **Markdown** exclusivement. Pour cela, sur une page existante, il suffit de cliquer sur le bouton "Actions sur la page" puis de choisir "Editer" comme suit :
-![contrib_actions_sur_page.png](/assets/contrib_actions_sur_page.png)
+![contrib_actions_sur_page.png](/assets/contrib_actions_sur_page.png =50%x)
 
 Une fois dans l'éditeur, le contributeur pourra alors modifier le contenu au format MD via un éditeur spécifique :
 - A gauche, le contenu éditable,
