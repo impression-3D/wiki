@@ -2,7 +2,7 @@
 title: Devenez contributeur
 description: Contribuez à ce Wiki !
 published: 1
-date: 2022-01-23T14:57:01.424Z
+date: 2022-01-23T15:00:15.551Z
 tags: collaboratif, contributeur, web
 editor: markdown
 dateCreated: 2022-01-04T17:45:25.468Z
@@ -41,7 +41,11 @@ Il est également possible d'insérer des images ou des liens vers des pages int
 
 Une fois l'édition terminée, il suffit de cliquer sur "Enregistrer" (en haut à droite) pour valider les modifications. Les modifications sont directement visibles en ligne et sur le dépôt GitHub.
 
+> Pour m'aider à la rédaction du contenu et éviter les fautes d'orthographe, j'utilise l'[extension pour navigateur MerciApp](https://www.merci-app.com/extension).
+{.is-info}
+
+
 ## Contribuer via GitHub
-> Les sources de ce Wiki sont également disponibles sur [Github](https://github.com/impression-3D/wiki). Il est donc possible de contribuer à ce Wiki via des **pull requests** directement sur le dépot de code sans pour autant créer de compte sur ce site.
+> Les sources de ce Wiki sont également disponibles sur [Github](https://github.com/impression-3D/wiki). Il est donc possible de contribuer à ce Wiki via des **pull requests** directement sur le dépôt de code sans pour autant créer de compte sur ce site.
 {.is-info}
 
